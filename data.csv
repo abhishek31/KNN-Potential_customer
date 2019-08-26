@@ -1,0 +1,1001 @@
+﻿Summary*,Submit Date
+FRMPP- ATT -CMSU_CMDB_T1 - Task,8/26/2019 2:43:46 PM
+First Responder - Open Systems -Broken - DSC-gi-prod-REGULAR-batch-complete-->Failed,8/26/2019 3:23:14 PM
+First Responder - Open Systems -Broken - DSC-argp-prod-REGULAR-Batch-->Failed,8/26/2019 1:53:46 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/26/2019 3:20:55 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS421_PROD_DB2_Source :  esps_db23_t1  -  La,8/26/2019 1:19:14 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS421_PROD_DB2_Source :  esps_db23_t1  -  La,8/26/2019 1:19:00 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS417_PROD_SQL_Source :  fis_caf4_bdy_t1  -,8/26/2019 1:18:55 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS417_PROD_SQL_Source :  fis_caf4_bdy_t1  -,8/26/2019 1:18:41 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS416_PROD_SQL_Source :  fis_saep_mach_t1  -,8/26/2019 1:18:35 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS417_PROD_SQL_Source :  fis_hsap_bdy_t1  -,8/26/2019 1:18:28 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 returned a non-,8/26/2019 1:18:22 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 returned a non-,8/26/2019 1:18:18 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:18:14 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 returned a non-,8/26/2019 1:18:09 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:17:59 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 returned a non-,8/26/2019 1:17:53 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 returned a non-,8/26/2019 1:17:46 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:17:42 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 returned a non-,8/26/2019 1:17:32 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] FIS_DEFT_DEP_VELOCITY_TT ret,8/26/2019 1:17:28 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 returned a non-,8/26/2019 1:17:23 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:17:18 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:17:13 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:17:05 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:16:59 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GVDS_CPSDB_T1 returned a non,8/26/2019 1:16:50 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] CRID2_CCAF_T1 returned a non,8/26/2019 1:16:41 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/26/2019 1:16:33 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:16:24 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:16:17 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:16:13 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:16:08 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:15:54 PM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] GWFS_GWFS_T1 returned a non-r,8/26/2019 1:15:50 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:15:43 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:15:38 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/26/2019 1:15:12 PM
+23132_DSC: DSC-ADDON_FST_RA-PROD: Data Ingestion Complete for CRON ProcessDateCode : 2019082423160,8/26/2019 1:00:01 PM
+First Responder - Open Systems -Broken - DSC-espars-prod-REGULAR-Batch-->Failed,8/26/2019 7:40:17 AM
+FRMPP – Latency – FIS_HSAP_BDY_T1 Over 10 Hours (10:30),8/26/2019 7:26:10 AM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/26/2019 10:10:22 AM
+First Responder - Open Systems -Broken - DSC-vista_ap_india-prod-DAILY-Batch-->Failed,8/26/2019 4:57:51 AM
+First Responder - Open Systems -Broken - DSC-gpirs-prod-REGULAR-Batch-->Failed,8/26/2019 4:09:40 AM
+First Responder - Open Systems -Broken - [edcas417.md2.ford.com\DSC AM Fatal Error] GWFS_GWFS_T1 ret,8/25/2019 11:26:47 PM
+First Responder - Open Systems -Broken - DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,8/25/2019 10:40:23 PM
+First Responder - Open Systems -Broken - DSC-vincent-prod-REGULAR-Batch-->Failed,8/25/2019 10:07:57 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,8/25/2019 9:44:50 PM
+FRMPP-Latency-QWX_SAEP_EA1MAIN_T1,8/25/2019 6:56:34 PM
+FRMPP-Latency-FIS-Task,8/25/2019 6:44:55 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,8/25/2019 6:26:59 PM
+First Responder - Open Systems -Broken - DSC-vmacs-prod-REGULAR-Batch-->Failed,8/25/2019 6:20:43 PM
+First Responder - Open Systems -Broken - DSC-gi-prod-REGULAR-Batch-->Failed,8/25/2019 6:19:57 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] CRID2_CCAF_T1 r,8/25/2019 5:22:52 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] GCBP_CCAFP_T1 r,8/25/2019 5:21:32 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/25/2019 4:07:38 PM
+First Responder - Open Systems -Broken - DSC-kbs_logs-prod-DAILY-Batch-->Failed,8/25/2019 3:38:48 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] VECM_VECM_T1 re,8/25/2019 3:32:25 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] GVDS_CPSDB_T1 r,8/25/2019 2:26:12 PM
+First Responder - Open Systems -Broken - DSC-gcqis-prod-REGULAR-Batch-->Failed,8/25/2019 1:19:21 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_DEFT_DEP_VE,8/25/2019 1:14:59 PM
+Splunk Alert: EDCAS416F:\Data\Attunity\logs\reptask_VECM_VECM_T1.log,8/25/2019 7:05:45 AM
+First Responder - Open Systems -Broken - DSC-mps2-prod-REGULAR-Batch-->Failed,8/25/2019 5:51:25 AM
+First Responder - Open Systems -Broken - DSC-vista_ap_india-prod-DAILY-Batch-->Failed,8/25/2019 5:50:01 AM
+First Responder - Open Systems -Broken - DSC-qadeccdb1085_03-prod-REGULAR-Batch-->Failed,8/25/2019 5:49:09 AM
+First Responder - Open Systems -Broken - DSC-qadeccdb1085_02-prod-REGULAR-Batch-->Failed,8/25/2019 2:24:17 AM
+First Responder - Open Systems -Broken - DSC-qadeccdb1087_01-prod-REGULAR-Batch-->Failed,8/25/2019 1:42:40 AM
+First Responder - Open Systems -Broken - DSC-vista_ap_newzea-prod-DAILY-Batch-->Failed,8/25/2019 12:21:00 AM
+First Responder - Open Systems -Broken - DSC-SICOP-PROD--DAILY-Batch-->Failed,8/25/2019 12:16:55 AM
+FRMPP-GVDS-Job-Error-State,8/24/2019 11:45:02 PM
+First Responder - Open Systems -Error - prod-dsc-10035_vista_ap_aust-batch-start-Failed,8/24/2019 9:07:38 PM
+First Responder - Open Systems -Error - prod-dsc-10022_emsqad-batch-start-Failed,8/24/2019 8:12:19 PM
+FRMPP-Latency-ESPS_DB23_T1,8/24/2019 7:31:16 PM
+First Responder - Open Systems -Error - prod-dsc-10210_gi-batch-start-Failed,8/24/2019 6:07:42 PM
+First Responder - Open Systems -Error - DSC-10456-ATENTO_SGA_BR-PROD-Workflow-Failed,8/24/2019 6:07:06 PM
+First Responder - Open Systems -Error - DSC-10160-FACTON-PROD-Workflow-Failed,8/24/2019 3:30:07 PM
+First Responder - Open Systems -Error - prod-dsc-10549_capspgcs-batch-start-Failed,8/24/2019 3:29:29 PM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,8/24/2019 3:28:48 PM
+EDCAS420_PROD_DB2_Source - Latency,8/24/2019 3:43:39 PM
+First Responder - Open Systems -Broken - DSC-qadeccdb1086_02-prod-REGULAR-Batch-->Failed,8/24/2019 1:16:23 PM
+First Responder - Open Systems -Broken - DSC-SICOP-PROD--DAILY-Batch-->Failed,8/24/2019 1:17:54 PM
+First Responder - Open Systems -Broken - DSC-qadeccdb1086_01-prod-REGULAR-Batch-->Failed,8/24/2019 1:16:54 PM
+First Responder - Open Systems -Broken - DSC-vista_ap_india-prod-DAILY-Batch-->Failed,8/24/2019 9:21:06 AM
+First Responder - Open Systems -Broken - DSC-SICOP-PROD--CRON-Batch-->Failed,8/24/2019 12:19:48 AM
+First Responder - Open Systems -Broken - DSC-vips_vmps-prod-DAILY-Batch-->Failed,8/24/2019 12:19:24 AM
+First Responder - Open Systems -Broken - DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,8/24/2019 12:19:00 AM
+Data from 8/23 in 10008_navis_lz_db.gdf0r48_navis_dly Duplicated,8/23/2019 11:43:06 PM
+Somebody created test table in DSC Prod 10696_GTNexus_LZ_DB Database,8/23/2019 11:39:23 PM
+First Responder - Open Systems -Broken - DSC-AURORA_S2C-PROD--INIT-Data-Movement-->Failed,8/23/2019 9:34:41 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/23/2019 7:13:31 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/23/2019 7:44:56 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/23/2019 7:29:06 PM
+First Responder - Open Systems -Broken - DSC-vcds-prod-REGULAR-batch-complete-->Failed,8/23/2019 7:19:15 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] GCBP_CCAFP_T1 r,8/23/2019 7:16:01 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/23/2019 6:28:36 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/23/2019 7:42:56 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/23/2019 6:46:53 PM
+CRID2_CCAF_T1(on EDCAS418_PROD_SQL_Source) task failed and resume mode for long time,8/23/2019 8:41:45 PM
+First Responder - Open Systems -Broken - DSC-argp-prod-REGULAR-Batch-->Failed,8/23/2019 4:58:32 PM
+Clickstream data:2 copies of the actual source table gdf0raq_adobe_clickstr_fp_chn,8/23/2019 7:22:00 PM
+First Responder - Open Systems -Broken - DSC-vista_ap_aust-prod-DAILY-Batch-->Failed,8/23/2019 5:59:01 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/23/2019 4:54:58 PM
+First Responder - Open Systems -Broken - DSC-ips-prod-REGULAR-Batch-->Failed,8/23/2019 4:15:20 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/23/2019 4:14:23 PM
+First Responder - Open Systems -Broken - DSC-CRMSAP-PROD--ADHOC-Data-Ingestion-->Failed,8/23/2019 1:45:08 PM
+First Responder - Open Systems -Broken - DSC-vcds-prod-REGULAR-Batch-->Failed,8/23/2019 12:20:09 PM
+First Responder - Open Systems -Broken - DSC-tmac-prod-REGULAR-Batch-->Failed,8/23/2019 1:12:59 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/23/2019 10:22:47 AM
+First Responder - Open Systems -Broken - DSC-crr-prod-REGULAR-batch-complete-->Failed,8/23/2019 10:13:22 AM
+No Filewatcher for ARFD,8/23/2019 12:02:48 AM
+CMMS3 table not refreshing in TZ,8/22/2019 10:21:56 PM
+First Responder - Open Systems -Broken - DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,8/22/2019 10:46:52 PM
+First Responder - Open Systems -Broken - DSC-erma-prod-REGULAR-batch-complete-->Failed,8/22/2019 10:22:30 PM
+No Data Loaded in 10008_navis_lz_db.gdf0r48_navis_dly for,8/22/2019 8:08:28 PM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] QWX_SAEP_EA1CHA_T1 returned a,8/22/2019 8:34:09 PM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CCA_T1 returned a no,8/22/2019 8:34:05 PM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] MMS_MMS_T1 returned a non-ret,8/22/2019 8:34:00 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/22/2019 6:59:02 PM
+SPCPS Data Load Issue from NAS to Landing Zone,8/22/2019 7:33:12 PM
+MMS_MMS_T1(on EDCAS417_PROD_SQL_Source) --task in resume mode for long time 22/08/2019,8/22/2019 8:04:44 PM
+First Responder - Open Systems -Broken - DSC-PRISM-PROD--ADHOC-Workflow-->Failed,8/22/2019 3:45:32 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/22/2019 3:43:47 PM
+First Responder - Open Systems -Broken - DSC-crr-prod-REGULAR-Batch-->Failed,8/22/2019 2:15:59 PM
+First Responder - Open Systems -Broken - DSC-ips-prod-REGULAR-Batch-->Failed,8/22/2019 10:54:35 AM
+First Responder - Open Systems -Broken - DSC-vista_ap_aust-prod-DAILY-Batch-->Failed,8/22/2019 10:06:04 AM
+First Responder - Open Systems -Broken - DSC-ndpcii-prod-REGULAR-batch-complete-->Failed,8/22/2019 10:05:19 AM
+First Responder - Open Systems -Broken - DSC-euasaims-prod-REGULAR-Batch-->Failed,8/22/2019 10:03:51 AM
+Latency  - EDCAS419_PROD_Oracle_Source - QLSVO_CRA_K1,8/22/2019 8:54:30 AM
+First Responder - Open Systems -Broken - DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,8/22/2019 8:26:25 AM
+First Responder - Open Systems -Broken - DSC-snurk2-prod-REGULAR-Batch-->Failed,8/22/2019 8:25:39 AM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] CMSU_CMDB_T1 re,8/22/2019 7:43:51 AM
+First Responder - Open Systems -Broken - DSC-SICOP-PROD--CRON-Batch-->Failed,8/22/2019 10:02:52 AM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] CMSU_CMDB_T1 returned a non-,8/22/2019 6:15:34 AM
+FRMPP - ATT - CMSU_CMDB_T1,8/22/2019 6:22:07 AM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CCA_T1 returned a no,8/22/2019 12:47:36 AM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CCA_T1 returned a no,8/22/2019 12:42:31 AM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CCA_T1 returned a no,8/22/2019 12:40:56 AM
+First Responder - Open Systems -Broken - DSC-vista_ap_newzea-prod-DAILY-Batch-->Failed,8/22/2019 12:06:42 AM
+First Responder - Open Systems -Broken - DSC-SICOP-PROD--DAILY-Batch-->Failed,8/22/2019 12:08:02 AM
+First Responder - Open Systems -Broken - [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CCA_T1,8/22/2019 12:45:58 AM
+We would need clean up QLSCM stitching jobs in DSC,8/21/2019 11:00:10 PM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CCA_T1 returned a no,8/22/2019 12:44:14 AM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CMM_T1 returned a no,8/21/2019 8:57:50 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  emsgoals_sf306p0,8/21/2019 8:40:31 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  gslts_sslt_t1  -,8/21/2019 8:40:23 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  wcts_sf304p01_t1,8/21/2019 8:40:13 PM
+FRMPP - Latency - EDCAS419_PROD_Oracle_Source - CLARITY_CLRTYPRD_E2_T1,8/21/2019 8:13:00 PM
+FRMPP - Latency - EDCAS419_PROD_Oracle_Source - CLARITY_CLRTYPRD_E1_T1,8/21/2019 8:11:05 PM
+FRMPP - Latency - EDCAS533_PROD_IMS_Source - CLARITY_CLRTYPRD_T1,8/21/2019 8:09:21 PM
+FRMPP - Latency - EDCAS419_PROD_Oracle_Source,8/21/2019 9:54:43 PM
+First Responder - Open Systems -Broken - [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CMM_T1,8/21/2019 9:31:38 PM
+First Responder - Open Systems -Broken - DSC-BDI-PROD--CRON-Workflow-->Failed,8/21/2019 9:31:02 PM
+First Responder - Open Systems -Broken - DSC-vips_vmps-prod-DAILY-batch-complete-->Failed,8/21/2019 9:30:23 PM
+First Responder - Open Systems -Broken - DSC-fbc-prod-REGULAR-batch-complete-->Failed,8/21/2019 9:29:49 PM
+FRMPP - Latency - EMSGOALS_SF306P02_T1,8/21/2019 9:29:25 PM
+First Responder - Open Systems -Broken - DSC-gi-prod-REGULAR-Batch-->Failed,8/21/2019 9:29:10 PM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CMM_T1 returned a no,8/21/2019 7:02:13 PM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_TEP_SIGENGSB_T1 returned,8/21/2019 6:15:57 PM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] QWX_EEP_CMM_T1 returned a no,8/21/2019 7:56:26 PM
+First Responder - Open Systems -Broken - DSC-svs-prod-REGULAR-batch-complete-->Failed,8/21/2019 5:05:10 PM
+First Responder - Open Systems -Broken - DSC-VISTA-PROD--ADHOC-Data-Movement-->Failed,8/21/2019 5:04:18 PM
+First Responder - Open Systems -Broken - DSC-AA_LNWAY_APP-PROD--INIT-Workflow-->Failed,8/21/2019 5:03:41 PM
+First Responder - Open Systems -Broken - DSC-LINCOLN_LMC-PROD--DAILY-Workflow-->Failed,8/21/2019 4:28:02 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/21/2019 5:02:34 PM
+DSC TZ QLSCM is not refreshing tables /stitching job failure,8/21/2019 5:58:46 PM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA5-PROD--DAILY-Workflow-->Failed,8/21/2019 5:03:07 PM
+First Responder - Open Systems -Broken - DSC-kbs_logs-prod-DAILY-Batch-->Failed,8/21/2019 4:30:33 PM
+First Responder - Open Systems -Broken - DSC-FP_ADOBE_CHN-PROD--DAILY-Workflow-->Failed,8/21/2019 4:29:23 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/21/2019 4:28:33 PM
+FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  CLARITY_CLRTYPRD_E1_T1,8/21/2019 3:40:38 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS533_PROD_IMS_Source :  clarity_clrtyprd_t1,8/21/2019 3:40:32 PM
+FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source : CLARITY_CLRTYPRD_E2_T1,8/21/2019 3:40:22 PM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] QWX_CEP_AHD35_T1,8/21/2019 1:28:35 PM
+First Responder - Open Systems -Broken - DSC_PROD FP_APP_CS_US Job 8449 fordpapp.fp.prod Completed 1,8/21/2019 1:48:00 PM
+First Responder - Open Systems -Broken - DSC-argp-prod-REGULAR-Batch-->Failed,8/21/2019 1:49:16 PM
+First Responder - Open Systems -Broken - DSC-cepsp-prod-REGULAR-Batch-->Failed,8/21/2019 10:43:41 AM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/21/2019 11:13:06 AM
+First Responder - Open Systems -Broken - DSC-svs-prod-REGULAR-Batch-->Failed,8/21/2019 7:51:34 AM
+First Responder - Open Systems -Broken - DSC-ardr-prod-REGULAR-Batch-->Failed,8/21/2019 7:50:47 AM
+First Responder - Open Systems -Broken - DSC-erma-prod-REGULAR-Batch-->Failed,8/21/2019 12:43:23 PM
+First Responder - Open Systems -Broken - DSC-fbc-prod-REGULAR-Batch-->Failed,8/21/2019 10:44:22 AM
+First Responder - Open Systems -Broken - DSC-vin_ref-prod-DAILY-Batch-->Failed,8/21/2019 9:43:22 AM
+QLSCM Jobs failed,8/21/2019 5:33:16 AM
+NAVIS job failed to load today's file.,8/21/2019 2:27:51 AM
+First Responder - Open Systems -Broken - DSC-snurk2-prod-REGULAR-Batch-->Failed,8/20/2019 10:54:06 PM
+First Responder - Open Systems -Broken - DSC-citis-prod-REGULAR-Batch-->Failed,8/20/2019 10:17:16 PM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] FIS_KCAP_FINT_T1 returned a n,8/20/2019 9:39:03 PM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] FIS_OHAP_BDY_T1 returned a n,8/20/2019 9:38:59 PM
+23132_DSC: FRMPP-Latency [edcas536.md2.ford.com\New Notification 1] BLESS_REC_CH_T1 returned a no,8/20/2019 9:38:55 PM
+First Responder - Open Systems -Broken - DSC-vista_ap_aust-prod-DAILY-Batch-->Failed,8/20/2019 9:23:51 PM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] FIS_VDK_V6FM_T1 returned a no,8/20/2019 9:02:07 PM
+LA_UKDEU job didn't load yesterday's data. i.e 8/20/2019,8/21/2019 2:25:50 AM
+LA_UKDEU job failed and didn't create file watcher.,8/21/2019 2:23:38 AM
+SCACGFIN missing data for 8/19,8/20/2019 9:20:13 PM
+Data from 8/20 not loaded into 10008_navis_lz_db,8/20/2019 8:35:21 PM
+First Responder - Open Systems -Broken - DSC-vin_ref-prod-DAILY-Batch-->Failed,8/21/2019 12:49:47 AM
+First Responder - Open Systems -Broken - DSC-SICOP-PROD--DAILY-Workflow-->Failed,8/20/2019 11:41:52 PM
+LA job failed  due to DDIT tool issue.,8/21/2019 2:08:43 AM
+Data Quality issues with Volume with NAVIS landing,8/20/2019 6:46:26 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/20/2019 4:36:16 PM
+First Responder - Open Systems -Broken - DSC-AA_LNWAY_APP-PROD--DAILY-Workflow-->Failed,8/20/2019 3:32:01 PM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA2-PROD--DAILY-Workflow-->Failed,8/20/2019 4:40:21 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/20/2019 12:33:24 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/20/2019 3:30:59 PM
+First Responder - Open Systems -Broken - DSC-vcds-prod-REGULAR-Batch-->Failed,8/20/2019 11:14:03 AM
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-batch-complete-->Failed,8/20/2019 9:57:06 AM
+First Responder - Open Systems -Broken - DSC-ips-prod-REGULAR-Batch-->Failed,8/20/2019 9:58:37 AM
+First Responder - Open Systems -Broken - DSC-euasaims-prod-REGULAR-Batch-->Failed,8/20/2019 9:57:56 AM
+First Responder - Open Systems -Broken - DSC-LA-PROD--INIT-Workflow-->Failed,8/20/2019 1:15:13 AM
+First Responder - Open Systems -Broken - DSC-SICOP-PROD--CRON-Workflow-->Failed,8/20/2019 12:24:19 AM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/19/2019 10:26:56 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/19/2019 9:35:44 PM
+First Responder - Open Systems -Broken - DSC-snurk2-prod-REGULAR-Batch-->Failed,8/19/2019 10:56:33 PM
+First Responder - Open Systems -Broken - DSC-ndpcii-prod-REGULAR-Batch-->Failed,8/19/2019 10:55:45 PM
+First Responder - Open Systems -Broken - DSC-VINCENT-PROD--DAILY-Workflow-->Failed,8/19/2019 10:20:31 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/19/2019 9:34:58 PM
+DSC IT watcher has failed to pick up the VIN Ref data files from dropzone,8/19/2019 7:45:39 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/19/2019 10:16:00 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/19/2019 9:37:19 PM
+23132_DSC: FRMPP-Latency [edcas535.md2.ford.com\Fatal error AM Team] TWOS_TWOSPRD1_T1 returned a,8/19/2019 9:37:03 PM
+23132_DSC: FRMPP-Latency [edcas535.md2.ford.com\Fatal error AM Team] TWOS_TWOSPRD1_T1 returned a,8/19/2019 9:36:38 PM
+23132_DSC: FRMPP-Latency [edcas535.md2.ford.com\Fatal error AM Team] FCAMS_SF204P01_E1_T1 returne,8/19/2019 9:36:29 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_DDMP_T1 returned a non,8/19/2019 9:36:25 PM
+First Responder - Open Systems -Broken - DSC-vista_ap_aust-prod-DAILY-Batch-->Failed,8/19/2019 9:16:01 PM
+No file watcher from DSC for Autoalert and ARFD,8/19/2019 7:40:03 PM
+In SCA-C TMAC process is not started due to trigger file not received from DSC,8/20/2019 3:35:47 PM
+SCAC TLK - missing Filewatcher 8/17,8/19/2019 7:11:23 PM
+SCAC LANA - missing FIlewatcher 8/17,8/19/2019 7:09:17 PM
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/19/2019 4:30:52 PM
+First Responder - Open Systems -Broken - DSC-crr-prod-REGULAR-Batch-->Failed,8/19/2019 1:31:38 PM
+First Responder - Open Systems -Broken - DSC-LA-PROD--CRON-Batch-->Failed,8/19/2019 1:31:00 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,8/19/2019 10:49:35 AM
+dsc10148_qlscm_repqcm1_lz_db DSC TEM jobs,8/19/2019 9:41:33 AM
+First Responder - Open Systems -Broken - DSC-ips-prod-REGULAR-Batch-->Failed,8/19/2019 10:05:40 AM
+First Responder - Open Systems -Broken - DSC-vips_vmps-prod-DAILY-Batch-->Failed,8/19/2019 7:42:47 AM
+First Responder - Open Systems -Broken - DSC-vista_ap_india-prod-DAILY-Batch-->Failed,8/19/2019 5:09:52 AM
+FRMPP-ATT-[edcas535.md2.ford.com\Fatal error AM Team] TWOS_TWOSPRD1_T1 returned a non-retryable e...,8/19/2019 3:52:26 AM
+First Responder - Open Systems -Broken - DSC-tmac-prod-REGULAR-Batch-->Failed,8/19/2019 3:08:25 AM
+23132_DSC: FRMPP-Latency [edcas535.md2.ford.com\Fatal error AM Team] TWOS_TWOSPRD2_T1 returned a,8/19/2019 1:25:16 AM
+First Responder - Open Systems -Broken - DSC-snurk2-prod-REGULAR-Batch-->Failed,8/18/2019 11:48:25 PM
+FRMPP-Latency-FIS_CAM_BDY_T1,8/18/2019 11:43:02 PM
+23132_DSC: FRMPP-Latency [edcas535.md2.ford.com\Fatal error AM Team] TWOS_TWOSPRD1_T1 returned a,8/19/2019 1:23:15 AM
+First Responder - Open Systems -Broken - DSC-citis-prod-REGULAR-Batch-->Failed,8/18/2019 9:45:33 PM
+First Responder - Open Systems -Broken - DSC-VINCENT-PROD--DAILY-Workflow-->Failed,8/18/2019 9:44:43 PM
+First Responder - Open Systems -Broken - DSC-vista_ap_aust-prod-DAILY-Batch-->Failed,8/18/2019 9:12:14 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS416_PROD_SQL_Source :  fis_saep_mach_t1  -,8/18/2019 6:40:59 PM
+23132_DSC: DSC-ADDON_FST_RA-PROD: Data Ingestion Complete for CRON ProcessDateCode : 2019081723003,8/18/2019 6:24:35 PM
+First Responder - Open Systems -Broken - DSC-gi-prod-REGULAR-Batch-->Failed,8/18/2019 5:52:05 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS417_PROD_SQL_Source :  fis_caf4_bdy_t1  -,8/18/2019 4:40:38 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/18/2019 4:04:38 PM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] EAMS_EATOOL_T1 returned a no,8/18/2019 4:02:47 PM
+23132_DSC: FRMPP-Latency [edcas534.md2.ford.com\Fatal error AM Team] EAMS_EATOOL_T1 returned a no,8/18/2019 4:02:44 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] ARIP_ARMKSPRD_DR_T1 returned,8/18/2019 4:02:40 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] ARIP_ARMKSPRD_DR_T1 returned,8/18/2019 4:02:37 PM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] PDOR2_PDOR2_DR_T1 returned a,8/18/2019 4:02:33 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] ARIP_ARMKSPRD_DR_T1 returned,8/18/2019 4:02:25 PM
+First Responder - Open Systems -Error - DSC-GCVP-PROD--ADHOC-Batch-->Failed,8/19/2019 6:14:18 PM
+First Responder - Open Systems -Error - DSC-gi-prod-REGULAR-Batch-->Failed,8/19/2019 6:13:29 PM
+First Responder - Open Systems -Error - DSC-GCVP-PROD--ADHOC-Data-Movement-->Failed,8/19/2019 5:26:20 PM
+First Responder - Open Systems -Error - DSC-tlk-prod-DAILY-Batch-->Failed,8/19/2019 5:25:07 PM
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/19/2019 4:33:19 PM
+First Responder - Open Systems -Error - DSC-AA_CLKSTRM_NA2-PROD--DAILY-Workflow-->Failed,8/19/2019 4:32:27 PM
+First Responder - Open Systems -Error - DSC-kbs_logs-prod-DAILY-Batch-->Failed,8/19/2019 4:31:32 PM
+First Responder - Open Systems -Error - prod-dsc-10038_argp-batch-start-Failed,8/18/2019 1:44:33 PM
+First Responder - Open Systems -Error - prod-dsc-10015_crr-batch-start-Failed,8/18/2019 1:43:42 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/18/2019 2:27:12 PM
+First Responder - Open Systems -Broken - DSC-kbs_logs-prod-DAILY-Batch-->Failed,8/18/2019 3:33:05 PM
+First Responder - Open Systems -Error - PDOR2_PDOR2_DR_T1 replication task stopped,8/18/2019 11:14:46 AM
+First Responder - Open Systems -Error - prod-dsc-10056_euasaims-batch-start-Failed,8/18/2019 9:46:46 AM
+FRMPP - Latency - FIS_CAF4_BDY_T1,8/18/2019 5:08:49 PM
+FRMPP - Latency - FIS_SAEP_MACH_T1,8/18/2019 5:05:03 PM
+First Responder - Open Systems -Error - prod-dsc-10102_ardr-batch-start-Failed,8/18/2019 7:36:38 AM
+First Responder - Open Systems -Broken - DSC-siga-prod-REGULAR-Batch-->Failed,8/18/2019 6:00:00 AM
+First Responder - Open Systems -Error - prod-dsc-10548_cepsp-batch-start-Failed,8/18/2019 11:35:35 AM
+First Responder - Open Systems -Error - prod-dsc-10020_fbc-batch-start-Failed,8/18/2019 11:33:32 AM
+First Responder - Open Systems -Error - ARIP_ARMKSPRD_DR_T1 replication task stopped,8/18/2019 11:09:24 AM
+First Responder - Open Systems -Error - DSC-10276-OFMDW-PROD-Workflow-Failed,8/18/2019 9:46:05 AM
+First Responder - Open Systems -Error - prod-dsc-10086_svs-batch-start-Failed,8/18/2019 7:37:42 AM
+First Responder - Open Systems -Error - prod-dsc-10046_arfd-batch-start-Failed,8/18/2019 6:50:09 AM
+FRMPP-Latency-FIS_CAF4_BDY_T1,8/18/2019 4:29:49 AM
+FRMPP - ATT - Multiple tasks in 'recovering' state,8/18/2019 9:57:54 PM
+First Responder - Open Systems -Broken - DSC-VINCENT-PROD--DAILY-Workflow-->Failed,8/18/2019 12:59:15 AM
+First Responder - Open Systems -Broken - DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,8/18/2019 12:58:46 AM
+First Responder - Open Systems -Error - prod-dsc-10035_vista_ap_aust-batch-start-Failed,8/17/2019 9:07:07 PM
+First Responder - Open Systems -Error - DSC-10016-AA_CLKSTRM_NA3-PROD-Data-Movement-Failed,8/17/2019 6:28:10 PM
+First Responder - Open Systems -Error - DSC-10456-ATENTO_SGA_BR-PROD-Workflow-Failed,8/17/2019 4:21:06 PM
+First Responder - Open Systems -Error - DSC-10160-FACTON-PROD-Workflow-Failed,8/17/2019 4:07:51 PM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,8/17/2019 4:07:07 PM
+First Responder - Open Systems -Error - DSC-lana_invoice-prod-DAILY-batch-complete-->Failed,8/17/2019 1:07:20 PM
+First Responder - Open Systems -Error - DSC-ips-prod-REGULAR-Batch-->Failed,8/17/2019 10:35:18 AM
+First Responder - Open Systems -Error - DSC-cepsp-prod-REGULAR-Batch-->Failed,8/17/2019 10:38:11 AM
+First Responder - Open Systems -Error - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/17/2019 10:37:28 AM
+FRMPP - ATT - Multiple Tasks Failing,8/18/2019 4:51:34 PM
+First Responder - Open Systems -Broken - DSC-PRISM-PROD--WEEKLY-Workflow-->Failed,8/16/2019 9:15:25 PM
+First Responder - Open Systems -Broken - DSC-vista_ap_aust-prod-DAILY-Batch-->Failed,8/16/2019 9:14:47 PM
+CMMS3 - Job is not executed since Aug-15,8/16/2019 9:11:07 PM
+FRMPP - ATT -  Replicate - Prod edcas535 cpu,8/18/2019 4:56:14 PM
+First Responder - Open Systems -Error - prod-dsc-10201_erma-batch-start-Failed,8/18/2019 11:36:25 AM
+First Responder - Open Systems -Broken - DSC-lvngfta-prod-DAILY-batch-complete-->Failed,8/16/2019 6:00:45 PM
+LANA_Invoice Data Missing,8/16/2019 5:42:19 PM
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-Batch-->Failed,8/16/2019 5:35:25 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/16/2019 4:08:15 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/16/2019 1:58:54 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/16/2019 3:19:42 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/16/2019 1:35:55 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/16/2019 12:59:37 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/16/2019 1:34:04 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/16/2019 1:24:53 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/16/2019 1:10:25 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1 returned a,8/16/2019 1:07:40 PM
+First Responder - Open Systems -Broken - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed!,8/16/2019 11:12:40 AM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] WPAC_SF308P07_T,8/16/2019 11:10:51 AM
+FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] WPAC_SF308P07_T1,8/16/2019 10:30:00 AM
+Navis - Failed in Movement - 15/8/2019,8/16/2019 1:57:39 PM
+Navis - Failed in Movement - 16/8/2019,8/16/2019 1:58:24 PM
+Navis - Failed in Movement - 13/8/2019,8/16/2019 1:59:01 PM
+DSC-sicop-prod-DAILY-batch-complete-->Failed,8/16/2019 1:30:23 AM
+DSC-VINCENT-PROD--DAILY-Workflow-->Failed,8/16/2019 1:28:18 AM
+DSC-AEM - Latency,8/16/2019 2:30:06 AM
+DSC Transformation dsc10726_devicewise_hotstamping_lz_db Failed,8/16/2019 1:19:02 AM
+DSC-vista_ap_aust-prod-DAILY-batch-complete-->Failed,8/16/2019 1:29:09 AM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA5-PROD--DAILY-Workflow-->Failed,8/15/2019 4:22:23 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/15/2019 4:21:38 PM
+10536_lvngide_lz_db.gdf0rbg_livingston_usa_ent,8/15/2019 8:16:07 PM
+First Responder - Open Systems -Broken - DSC-LA-PROD--INIT-Workflow-->Failed,8/15/2019 7:52:47 PM
+LATENCY ISSUE :     eCATSRL_eCATSDB_KCT_T1,8/15/2019 5:46:45 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/15/2019 2:45:17 PM
+23132_DSC: FRMPP-ATT DSC ATTUNITY LATENCY ALERT -  EDCAS536_PROD_AS400_Source :  bless_caps_fr_t1,8/15/2019 10:40:35 AM
+23132_DSC: FRMPP-Latency [edcas417.md2.ford.com\DSC AM Fatal Error] FIS_FTM_PNT_T1 returned a non,8/15/2019 5:35:07 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] FIS_WEP_ENG_T1 returned a no,8/15/2019 5:34:06 AM
+23132_DSC: FRMPP-Latency [edcas416.md2.ford.com\Fatal error AM Team] FIS_REP_D35HC_T1 returned a,8/15/2019 5:34:02 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/15/2019 4:27:17 AM
+DSC-AA_CLKSTRM_NA1-PROD Job 8411 fmcfordt12all_fordvehiclesespanol_fmcfordt2ptl Completed 1 Errors,8/16/2019 10:32:29 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/15/2019 12:03:30 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/15/2019 1:53:10 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] CRID2_CCAF_T1 returned a non,8/15/2019 12:27:10 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/15/2019 12:17:39 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] CRID2_CCAF_T1 returned a non,8/15/2019 12:16:47 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] CRID2_CCAF_T1 returned a non,8/15/2019 12:04:36 AM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] CRID2_CCAF_T1 returned a non,8/14/2019 10:46:12 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/14/2019 10:47:43 PM
+First Responder - Open Systems -Broken - DSC-BDI-PROD--CRON-Workflow-->Failed,8/14/2019 9:07:36 PM
+10290_fp_app_cs_us_lz_db. gdf0r10_fordpass_clickstr_app missing dates 11th & 12th,8/14/2019 8:52:39 PM
+First Responder - Open Systems -Broken - DSC-AURORAD-PROD--INIT-Workflow-->Failed,8/14/2019 9:08:09 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] QLSVO_CRA_K1 returned a non-,8/14/2019 8:55:02 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/14/2019 8:54:50 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] GCBP_CCAFP_T1 returned a non,8/14/2019 8:54:16 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] CRID2_CCAF_T1 returned a non,8/14/2019 8:52:08 PM
+First Responder - Open Systems -Error - prod-dsc-10027_lana_invoice-batch-complete-Failed!,8/15/2019 11:59:58 AM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed!,8/15/2019 10:34:40 AM
+FRMPP - ATT - EDCAS416_PROD_SQL_Source,8/15/2019 5:34:42 AM
+FRMPP - Latency - FIS_CAF4_BDY_T1,8/15/2019 5:30:14 AM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/14/2019 7:05:31 PM
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-batch-complete-->Failed,8/14/2019 7:04:11 PM
+First Responder - Open Systems -Broken - DSC-lvngfta-prod-DAILY-batch-complete-->Failed,8/14/2019 7:03:38 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSVO_CRA_K1 re,8/14/2019 6:46:57 PM
+Data Ingestion Failed,8/14/2019 6:54:19 PM
+Attunity:  EDCAS418_PROD_SQL_Source -   CRID2_CCAF_T1 - Failure,8/14/2019 6:06:21 PM
+23132_DSC: FRMPP-Latency [edcas419.md2.ford.com\Fatal error_AD Team] GPPS_GCSP10_T1 returned a no,8/14/2019 5:48:39 PM
+23132_DSC: FRMPP-Latency [edcas418.md2.ford.com\Fatal error_AD Team] CRID2_CCAF_T1 returned a non,8/14/2019 5:22:46 PM
+Attunity:  EDCAS418_PROD_SQL_Source    GCBP_CCAFP_T1 -Failure,8/14/2019 6:09:03 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] CRID2_CCAF_T1 r,8/14/2019 5:24:05 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] GCBP_CCAFP_T1 r,8/14/2019 5:23:08 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/14/2019 4:10:36 PM
+First Responder - Open Systems -Broken - An unexpected condition has occurred in CVOS : PROD:cvos_2,8/14/2019 3:49:26 PM
+First Responder - Open Systems -Broken - DSC-navis_dly-prod-DAILY-batch-complete-->Failed,8/14/2019 9:06:54 AM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS535_PROD_Oracle_Source :  smart_wsp_wsppfs1_t1  -  L,8/14/2019 3:40:39 AM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  smart_satp_strpfs1_t1  -,8/14/2019 3:40:30 AM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  qlscm_strqcm1_t1  -  Laten,8/14/2019 3:40:26 AM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS535_PROD_Oracle_Source :  fcams_sf204p01_e1_t1  -  L,8/14/2019 3:40:17 AM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  qlscm_ddmp_t1  -  Latency,8/14/2019 3:40:13 AM
+No data in the DSC VISTA TZ table to ingest in SCAC,8/14/2019 1:35:20 AM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  qlscm_rcp_t1  -  Latency H,8/14/2019 2:40:26 AM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS535_PROD_Oracle_Source :  gtsv_rcp_rawpfs1_t1  -  La,8/14/2019 2:40:17 AM
+23132_DSC: [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_RCP_T1 returned a non-retryable erro,8/14/2019 12:53:34 AM
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-batch-complete-->Failed,8/14/2019 12:08:54 AM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA1-PROD Job 8395 fmcfordt12all_fordvehicles,8/14/2019 12:41:05 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/14/2019 10:15:30 AM
+23132_DSC: [edcas419.md2.ford.com\Fatal error_AD Team] QLSCM_RCP_T1 returned a non-retryable erro,8/13/2019 10:44:35 PM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS418_PROD_SQL_Source :  ecatsrl_ecatsdb_dtp_t1  -  La,8/13/2019 9:45:25 PM
+First Responder - Open Systems -Error - DSC-VISTA-PROD--CRON-Data-Movement-->Failed,8/13/2019 9:18:53 PM
+[edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_RCP_T1 returned a non-retryable error,8/13/2019 10:57:03 PM
+DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,8/13/2019 10:54:24 PM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS419_PROD_Oracle_Source :  gpps_gcsp10_t1  -  Latency,8/13/2019 8:40:20 PM
+23132_DSC: DSC ATTUNITY LATENCY ALERT -  EDCAS535_PROD_Oracle_Source :  qlscm_cveqcm1_t1  -  Laten,8/13/2019 7:40:16 PM
+FRMPP-Latency-FCAMS,8/13/2019 6:27:11 PM
+Attunity Latency Issue - GPPS Task,8/13/2019 6:57:42 PM
+Attunity Latency- SMART,8/13/2019 6:55:45 PM
+FRMPP-Latency-QLSVO,8/13/2019 6:31:39 PM
+FRMPP-Latency-GTSV_RCP_RAWPFS1_T1,8/13/2019 6:29:32 PM
+FRMPP LATENCY - QLSVO,8/13/2019 6:29:15 PM
+FRMPP-latency-QLSCM,8/13/2019 6:25:23 PM
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,8/13/2019 5:01:53 PM
+File not received for EAAS,8/13/2019 7:07:47 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,8/13/2019 2:54:23 PM
+First Responder - Open Systems -Broken - DSC-AA_LNWAY_APP-PROD--DAILY-Workflow-->Failed,8/13/2019 2:55:28 PM
+First Responder - Open Systems -Broken - DSC_PROD FP_APP_CS_US Job 8389 fordpapp.fp.prod Completed 1,8/13/2019 1:48:10 PM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA1-PROD Job 8387 fmcfordt12all_fordvehicles,8/13/2019 1:47:35 PM
+eCATSRL_eCATSDB_DTP_T1 (EDCAS418_PROD_SQL_Source),8/13/2019 12:49:24 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,8/13/2019 12:01:39 PM
+First Responder - Open Systems -Broken - DSC-lana_invoice-prod-DAILY-batch-complete-->Failed,8/13/2019 11:57:17 AM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] CLARITY_CLRTYPR,8/13/2019 7:29:33 AM
+DSC-VINCENT-PROD--DAILY-Workflow-->Failed,8/13/2019 10:09:39 PM
+FRMPP-Latency-EDCAS419_PROD_Oracle_Source CLARITY_CLRTYPRD_E2_T1,8/13/2019 12:37:34 AM
+FRMPP-Latency EDCAS419_PROD_Oracle_Source CLARITY_CLRTYPRD_E1_T1,8/13/2019 12:34:51 AM
+FRMPP - Latency-EDCAS533_PROD_IMS_Source CLARITY_CLRTYPRD_T1,8/13/2019 12:34:07 AM
+Latency issue for FCAMS_SF204P01_E1_T1,8/13/2019 4:20:21 PM
+First Responder - Open Systems -Broken - DSC-VISTA-PROD--CRON-Workflow-->Failed,08-12-19 21:38
+No Data Loaded on 8/12/2019,08-12-19 20:17
+DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,08-12-19 23:37
+DSC-VINCENT-PROD--DAILY-Workflow-->Failed,08-12-19 22:23
+FRMPP-Latency-EDCAS417_PROD_SQL_Source FIS_KTP_FIN_T1,08-12-19 20:01
+First Responder - Open Systems -Broken - DSC-lana_invoice-prod-DAILY-batch-complete-->Failed,08-12-19 16:07
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-batch-complete-->Failed,08-12-19 17:48
+First Responder - Open Systems -Broken - DSC-lvngfta-prod-DAILY-batch-complete-->Failed,08-12-19 17:47
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,08-12-19 16:09
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-12-19 16:06
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA2-PROD--DAILY-Workflow-->Failed,08-12-19 16:04
+First Responder - Open Systems -Broken - DSC_PROD FP_WEB_CS_US Job 8382 fmcfpprod Completed 1 Errors,08-12-19 13:54
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA-PROD Job 8383 fmcfvngprod_fmclincolncom_f,08-12-19 13:49
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] WPAC_SF308P07_T,08-12-19 7:17
+First Responder - Open Systems -Broken - DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,08-11-19 23:41
+First Responder - Open Systems -Broken - DSC-VINCENT-PROD--DAILY-Workflow-->Failed,08-11-19 22:34
+FRMPP - ATT - EDCAS418_PROD_SQL_Source,08-11-19 22:21
+First Responder - Open Systems -Broken - DSC-CRMSAP-PROD--CRON-Batch-->Failed,08-11-19 21:09
+First Responder - Open Systems -Broken - DSC_PROD FP_APP_CS_US Job 8381 fordpapp.fp.prod Completed 1,08-12-19 13:47
+FRMPP - Latency - GOLD JOBS,08-11-19 22:47
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] GSLTS_SSLT_T1 r,08-11-19 17:19
+First Responder - Open Systems -Broken - [edcas534.md2.ford.com\Fatal error AM Team] ICICM_ICMAMSQP_,08-11-19 17:19
+FIS_CAF4_BDY_T1 (EDCAS417_PROD_SQL_Source),08-11-19 15:54
+Increased Latency - EDCAS416_PROD_SQL_Source,08-11-19 13:19
+Increased latency on EDCAS536_PROD_AS400_Source for multiple tasks,08-11-19 11:37
+First Responder - Open Systems -Error - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,08-11-19 10:39
+First Responder - Open Systems -Error - FIS_DEFT_DEP_VELOCITY_TT returned a non-retryable error,08-11-19 12:21
+First Responder - Open Systems -Broken - DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,08-11-19 0:21
+FRMPP -Latency - POSMON_VALENCIA_VO_T1,08-10-19 16:45
+First Responder - Open Systems -Error - DSC-10160-FACTON-PROD-Workflow-Failed!,08-10-19 14:45
+First Responder - Open Systems -Error - DSC-AA_CLKSTRM_NA1-PROD Job 8363,08-10-19 14:44
+First Responder - Open Systems -Error - DSC-10005-VINCENT-PROD-Workflow-Failed!,08-10-19 21:57
+First Responder - Open Systems -Error - DSC-10016-AA_CLKSTRM_NA3-PROD-Workflow-Failed!,08-10-19 16:43
+QLSVO_VAL_K1 (EDCAS419_PROD_Oracle_Source) - Increased Latency,08-10-19 16:13
+POSMON_VALENCIA_PTO_T1 (EDCAS419_PROD_Oracle_Source),08-10-19 16:11
+QLSVO_VAL_T1 (EDCAS419_PROD_Oracle_Source) - Increased Latency,08-10-19 16:10
+First Responder - Open Systems -Error - DSC-10456-ATENTO_SGA_BR-PROD-Workflow-Failed!,08-10-19 15:57
+DSC-VINCENT_FMCC_RAPTOR-PROD--INIT-Workflow-->Failed,08-10-19 0:40
+FRMPP-Latency-EDCAS535_PROD_Oracle_Source-SEER_SEERPRD_T1,08-09-19 20:15
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA5-PROD--DAILY-Data-Movement-->Failed,08-09-19 19:34
+CMMS3 TZ tables reading error,08-09-19 19:07
+Missing Filewatcher - AOT,08-09-19 19:08
+FRMPP - ATT - FIS_VAL_BDYM_T1,08-09-19 18:24
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-09-19 17:00
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,08-09-19 15:30
+First Responder - Open Systems -Broken - DSC-la-prod-DAILY-batch-complete-->Failed,08-09-19 15:29
+DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,08-09-19 22:57
+FRMPP-latency-EDCAS536_PROD_AS400_Source SAPGLOBAL_B2P_T1,08-09-19 23:52
+Missing Filewatcher - LA-NA,08-09-19 19:05
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,08-09-19 15:33
+DSC-lincolnlra-prod-MONTHLY-Batch-->Failed,08-09-19 22:54
+EDCAS534_PROD_SQL_Source,08-09-19 14:35
+DPR data in TZ missing data for Dearborn Truck Plant,08-08-19 22:59
+First Responder - Open Systems -Broken - DSC-ICICM_PRIVATEOFFER-PROD--INIT-Workflow-->Failed,08-08-19 20:51
+DSC-sicop-prod-DAILY-batch-complete-->Failed,08-08-19 23:54
+First Responder - Open Systems -Broken - DSC-LA_UKDEU-PROD--INIT-Batch-->Failed,08-08-19 19:14
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-08-19 19:13
+QLSCM_ITPQCM1 task is not connecting.,08-09-19 0:43
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] MFM_MFMPRD_T1 r,08-08-19 15:35
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,08-08-19 15:38
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,08-08-19 14:10
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,08-08-19 10:53
+First Responder - Open Systems -Error - prod-dsc-10577_ips-batch-start-Failed,08-08-19 9:45
+DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,08-08-19 23:52
+FRMPP-Latency-MFM_MFMPRD_T2,08-08-19 2:36
+DSC-MXAPS_FEU-Prod: 1 table failed,08-08-19 16:29
+DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,08-07-19 22:55
+First Responder - Open Systems -Broken - DSC-BDI-PROD--CRON-Workflow-->Failed,08-07-19 21:02
+Delta file empty,08-07-19 20:04
+Our process is waiting for LAUKDEU DSC file watchers and 08/06 DSC-TZ partitions.,08-07-19 23:02
+FRMPP - Latency - MFM_MFMPRD_T1,08-07-19 19:34
+FRMPP – Latency - QLSVO_VAL_T1,08-07-19 19:16
+Seer (dsc10234_seer_seerprd_lz_db)  there is last partition as 6th aug but the data is not loaded...,08-07-19 17:13
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-07-19 16:24
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] WPAC_SF308P07_T,08-07-19 16:20
+Increased latency for EDCAS535_PROD_Oracle_Source (SMARTSMOCA_SMPRD_T1),08-07-19 16:15
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,08-07-19 14:56
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,08-07-19 14:55
+FRMPP - ATT - WPAC_SF308P07_T1,08-07-19 19:52
+First Responder - Open Systems -Broken - [edcas420.md2.ford.com\Fatal error_AM Team] FIS_LAP_FIN_T1,08-07-19 8:09
+QLSVO_VAL_T1 task has latency of more than 10 hours,08-07-19 3:41
+LA-NA same file on 08/01 and 08/02,08-06-19 18:23
+FRMPP - ATT - QWX_EEP_AH_T1 - Error and Stopped,08-07-19 7:11
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-06-19 17:09
+First Responder - Open Systems -Broken - DSC-RCT-PROD--CRON-Data-Ingestion-->Failed,08-06-19 18:59
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,08-06-19 10:34
+DSC LZ - CMSU_CMDB_T1- remove table CCM_DISCOVERY_DEST_IPS,08-06-19 12:55
+Several of the FEDEBOM tables have nested JSON data,08-05-19 23:20
+FRMPP - LATENCY - SMARTSMOCA_SMPRD_T1,08-05-19 23:26
+DSC-PROSPECT-PROD--DAILY-Workflow-->Failed,08-05-19 22:55
+DSC-GCVP-PROD--CRON-Workflow-->Failed,08-06-19 1:20
+FRMPP - ATT - eCATSRL_eCATSDB_CAP_T1 - Stopped,08-05-19 20:57
+DSC-sicop-prod-DAILY-Batch-->Failed,08-05-19 23:54
+FIS LAP BDY2 LZ - LZ PK Duplicates between base and CT_INSERT Table and Orphan CT_DELETE records,08-05-19 19:24
+DSC-prospect-prod-DAILY-Batch-->Failed,08-05-19 22:53
+EDCAS535_PROD_Oracle_Source,08-05-19 18:02
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-Batch-->Failed,08-05-19 16:55
+First Responder - Open Systems -Broken - DSC-lvngfta-prod-DAILY-Batch-->Failed,08-05-19 16:55
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-05-19 16:54
+Data not refreshed for ACR_SF307P01_T1,08-05-19 19:18
+eCATSRL_eCATSDB * failures SQL_ERROR,08-05-19 11:21
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,08-05-19 9:56
+First Responder - Open Systems -Broken - [edcas535.md2.ford.com\Fatal error AM Team] SMARTSMOCA_SMPR,08-05-19 8:53
+First Responder - Open Systems -Error - QLSCM_DDMP_T1 replication task stopped,08-05-19 5:53
+FRMPP-Latency-PDO_PDO_T1,08-05-19 4:18
+FRMPP-Latency-smartsmoca_smprd_t1,08-04-19 16:53
+FRMPP - Latency - Gold Source,08-04-19 16:06
+FRMPP-Latency-BLESS_CAPS_CH_T1,08-04-19 7:21
+First Responder - Open Systems -Error - FCAMS_SF204P01_E1_T1 replication task stopped,08-04-19 5:26
+FRMPP-Latency-EUHRPRIVUK_SF302P01_T1,08-04-19 1:51
+FRMPP-Latency-FIS_CAF4_BDY_T1,08-04-19 1:51
+First Responder - Open Systems -Error - prod-dsc-10339_prospect-batch-complete-Failed,08-03-19 23:02
+First Responder - Open Systems -Error - prod-dsc-10339_prospect-batch-start-Failed,08-03-19 22:36
+FRMPP - Splunk - ATT - QLSCM_DDMP_T1,08-03-19 19:28
+FCAMS_SF204P01_E1_T1  failed,08-03-19 18:00
+First Responder - Open Systems -Error - DSC-10456-ATENTO_SGA_BR-PROD-Workflow-Failed!,08-03-19 17:08
+First Responder - Open Systems -Error - DSC-AA_CLKSTRM_SA-PROD Job 8307,08-03-19 15:40
+First Responder - Open Systems -Error - edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 ret,08-03-19 15:00
+Splunk Alert: Task Failed F:\Data\Attunity\logs\repsrv.log,08-03-19 14:46
+First Responder - Open Systems -Error - DSC-10160-FACTON-PROD-Workflow-Failed!,08-03-19 14:42
+LA-UKDEU (itms 15665) data has not been refreshed in DSC since Thursday (6/20),08-03-19 0:47
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-Batch-->Failed,08-02-19 23:56
+QLSCM_DDMP T1 task failed.,08-04-19 23:41
+First Responder - Open Systems -Broken - [edcas535.md2.ford.com\Fatal error AM Team] QLSCM_KEPQCM1_T,08-02-19 19:32
+First Responder - Open Systems -Broken - DSC-lvngfta-prod-DAILY-batch-complete-->Failed,08-02-19 17:13
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-batch-complete-->Failed,08-02-19 17:14
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-02-19 16:06
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,08-02-19 13:49
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,08-02-19 14:50
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,08-02-19 9:54
+QWX_CEP_AE- primary key duplicates in LZ DB,08-02-19 1:34
+First Responder - Open Systems -Broken - DSC-prospect-prod-DAILY-Batch-->Failed,08-01-19 22:44
+sca_c job iascamdsp_tsc1012_d_b failure,08-01-19 21:40
+FRMPP-Latency,08-01-19 20:05
+QLSCM_KEPQCM1_T1 task is not connecting,08-01-19 19:33
+FRMPP - ATT - QLSCM_KEPQCM1_T1,08-01-19 20:06
+Transformation Framework - 135875 IBIS#10061_ibis_lz_db#sgfdm06 Failed,08-01-19 17:05
+DSC ATTUNITY LATENCY ALERT - EDCAS536_PROD_AS400_Source : bless_caps_fr_t1 - Latency HR =10 at: 2...,08-03-19 12:17
+scac job failed due to lock,08-01-19 17:16
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,08-01-19 14:52
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,08-01-19 15:59
+FRMPP – ATT -CMSU_CMDB_T1,08-01-19 10:12
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,08-01-19 9:57
+First Responder - Open Systems -Error - CRID2_CCAF_T1 replication task stopped,08-01-19 13:46
+FRMPP - LATENCY - FIS_CAF4_BDY_T1 - GOLD,08-01-19 0:49
+Identified couple of tables in TZ is missing data.,08-01-19 0:37
+FRMPP – Splunk – ALL BLESS Jobs Failing,7/31/2019 10:25:46 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/31/2019 10:32:21 PM
+FRMPP - ATT - CRID2_CCAF_T1,7/31/2019 7:11:27 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/31/2019 3:50:20 PM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA2-PROD--DAILY-Workflow-->Failed,7/31/2019 3:48:55 PM
+FRMPP - ATT - GCBP_CCAFP_T1,7/31/2019 7:07:11 PM
+FRMPP-Latency-MFM_MFMPRD_T1,7/31/2019 1:53:45 AM
+QWX_TEP_SIGENGSB_T1(on EDCAS534_PROD_SQL_Source)  stuck in recovering state,7/31/2019 7:00:40 AM
+QWX_TEP_SIGENGSB_T1(on EDCAS534_PROD_SQL_Source)  stuck in recovering state,7/31/2019 6:58:35 AM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/31/2019 10:03:27 AM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] MFM_MFMPRD_T2 r,7/30/2019 11:24:03 PM
+First Responder - Open Systems -Broken - DSC-prospect-prod-DAILY-Batch-->Failed,7/30/2019 11:21:32 PM
+First Responder - Open Systems -Broken - DSC-ADDON_VOT-PROD--INIT-Data-Ingestion-->Failed,7/30/2019 11:22:45 PM
+First Responder - Open Systems -Broken - DSC-AURORAD-PROD--INIT-Data-Ingestion-->Failed,7/30/2019 10:11:42 PM
+FRMPP - ATT - Multiple tasks in stopped State,7/31/2019 12:05:17 AM
+Missing file watcher for LA_UKDEU on 20190726,7/31/2019 2:06:00 AM
+Missing file watcher on ProcessDateCode : 20190727100234,7/31/2019 2:01:32 AM
+Data recovery for FCAMS_SF204P01_E1_T1,7/30/2019 8:19:39 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] MFM_MFMPRD_T2 r,7/30/2019 5:38:45 PM
+First Responder - Open Systems -Broken - DSC-lvngfta-prod-DAILY-batch-complete-->Failed,7/30/2019 5:03:40 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/30/2019 3:43:19 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/30/2019 11:23:04 AM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] MFM_MFMPRD_T1 r,7/30/2019 7:22:53 AM
+DSC task MFM_MFMPRD_T2 was in error state,7/30/2019 6:29:30 AM
+DSC Task MFM_MFMPRD_T1 is in error state,7/30/2019 6:25:12 AM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] MFM_MFMPRD_T2 r,7/30/2019 7:23:34 AM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:41:16 PM
+First Responder - Open Systems -Broken - DSC-ADDON_VOT-PROD--INIT-Workflow-->Failed,7/29/2019 11:21:46 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:56:40 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:55:23 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:36:23 PM
+File Load Issue with 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 10:56:49 PM
+Data from 2018 file missing on 2017-03-28,7/29/2019 10:47:57 PM
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-Batch-->Failed,7/29/2019 11:49:27 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,7/29/2019 11:23:06 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:13:02 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:11:49 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:09:00 PM
+File Load Issue with 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:06:58 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 11:03:35 PM
+Data Missing from 10008_navis_lz_db.gdf0r48_navis_dly,7/29/2019 10:55:08 PM
+First Responder - Open Systems -Broken - [edcas535.md2.ford.com\Fatal error AM Team] FCAMS_SF204P01_,7/29/2019 10:41:19 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,7/29/2019 9:44:10 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] ITMS_ITMS_T1 re,7/29/2019 8:15:06 PM
+POLK-AOT return file,7/29/2019 9:14:12 PM
+FRMPP - ATT - ITMS_ITMS_T1,7/29/2019 8:48:27 PM
+First Responder - Open Systems -Broken - DSC-ADDON_FST_RA-PROD--CRON-Batch-->Failed,7/29/2019 8:13:03 PM
+FRMPP - ATTUNITY - MMS_MMS_T1,7/29/2019 6:56:08 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/29/2019 4:27:02 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/29/2019 2:55:32 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/29/2019 2:54:55 PM
+FIS_ELAEP_MACH_T1 tasks has login error.,7/29/2019 4:48:59 PM
+First Responder - Open Systems -Error - FCAMS_SF204P01_E1_T1 replication task stopped,7/29/2019 12:17:13 AM
+First Responder - Open Systems -Broken - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,7/28/2019 5:58:59 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/28/2019 5:58:23 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/28/2019 5:56:25 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_DEFT_DEP_VE,7/28/2019 11:51:30 AM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/27/2019 2:31:54 PM
+First Responder - Open Systems -Error - edcas416.md2.ford.com\Fatal error AM Team] CMSU_CMDB_T1 retu,7/27/2019 7:49:00 AM
+First Responder - Open Systems -Error - DSC-ips-prod-REGULAR-Batch-->Failed,7/27/2019 10:01:23 AM
+FRMPP – ATT – FCAMS_SF204P01_E1_T1 returned a non-retryable error,7/29/2019 7:01:16 AM
+FRMPP - ATTUNITY - Latency of more than 6 hours,7/29/2019 4:26:55 AM
+FRMPP - SQOOP - DSC-ADDON_FST_RA-PROD,7/28/2019 11:18:28 PM
+FRMPP - ATTUNITY - Error,7/28/2019 10:19:35 PM
+FRMPP - ATTUNITY - Latency of more than 12 hours,7/28/2019 9:52:20 PM
+FRMPP - Splunk - intermittent availability,7/27/2019 10:40:45 PM
+FRMPP-Latency-FIS_LAP_PNT_T1,7/27/2019 12:54:34 AM
+First Responder - Open Systems -Error - DSC-sicop-prod-DAILY-batch-complete-->Failed,7/27/2019 12:40:59 AM
+FRMPP – Splunk – VEPIS_BZVPIPROD_T1 - encountered a fatal error (repository.c:5203),7/28/2019 8:16:39 AM
+FRMPP – Splunk – 'FCAMS_SF204P01_E1_T1' encountered a fatal error,7/28/2019 8:08:37 AM
+FRMPP - ATT - Splunk Alert: Task Failed F:\Data\Attunity\logs\repsrv.log,7/28/2019 3:45:18 AM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/27/2019 2:57:20 PM
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-Batch-->Failed,7/26/2019 8:01:30 PM
+First Responder - Open Systems -Broken - DSC-CPO_SALE-PROD--CRON-Workflow-->Failed,7/26/2019 8:00:16 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_LAP_PNT_T1,7/26/2019 6:37:03 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_LAP_BDY_T1,7/26/2019 6:36:11 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_LAP_FIN_T1,7/26/2019 6:37:50 PM
+DSC - Task -FIS_LAP_PNT_T1 recovering for long time.,7/27/2019 2:30:56 AM
+Password expired for FIS LAP tasks,7/26/2019 5:22:36 PM
+FRMPP-Latency-eCATSRL_eCATSDB_VLC_T1,7/26/2019 6:24:59 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/26/2019 4:21:54 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] CMSU_CMDB_T1 re,7/26/2019 2:32:56 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/26/2019 2:47:12 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/26/2019 10:30:04 AM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190725225933-Batch-->Completed--Dat,7/26/2019 9:09:58 AM
+First Responder - Open Systems -Broken - DSC_FEDEBOM_CRON:FAILED,7/26/2019 9:09:10 AM
+"No File Loaded, Duplicated File Next Day",7/26/2019 1:44:06 AM
+No Data Loaded,7/26/2019 1:49:02 AM
+No Data Loaded on 7/18/2019,7/26/2019 1:08:48 AM
+Not All Model Year File Pieces Loaded,7/26/2019 1:24:40 AM
+FRMPP-Latency-EUHRPRIVUK_SF302P01_T1,7/25/2019 11:52:25 PM
+First Responder - Open Systems -Error - DSC-espars-prod-ADHOC-batch-complete-->Failed,7/26/2019 12:43:01 AM
+DSC TZ - FCAMS - dsc60187_fcams_assetmgr_tz_db(Database) - amAsset (Table) - SLA_CURR_FORD(Column),7/25/2019 10:55:36 PM
+First Responder - Open Systems -Broken - DSC-ADDON_FST_RA-PROD--CRON-Batch-->Failed,7/25/2019 8:19:40 PM
+FRMPP-Latency-FIS_SAEP_ASM_T1,7/25/2019 8:17:43 PM
+Task - QWX_TEP_TTPASSYMX65_T1 is recovering for long time,7/26/2019 5:36:39 AM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/25/2019 4:01:06 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/25/2019 4:00:08 PM
+First Responder - Open Systems -Broken - [edcas417.md2.ford.com\DSC AM Fatal Error] AGENDA_BZAGENDA_,7/25/2019 3:43:16 PM
+Data Replication Gap in Clarity task failed on 9th July 2019,7/25/2019 5:13:13 PM
+First Responder - Open Systems -Error - DSC-GCVP-PROD--CRON-Workflow-->Failed,7/25/2019 1:41:21 AM
+AGENDA_BZAGENDA_T1 Failed on 07/25,7/25/2019 5:28:25 PM
+Several parts of current MYR NAVIS files missing,7/25/2019 1:18:39 AM
+FRMPP - Latency -  CLARITY_CLRTYPRD,7/25/2019 1:06:43 AM
+FRMPP - Latency - FIS_SAEP_ASM_T1,7/25/2019 1:16:13 AM
+FRMPP - Latency - QLSVO_COL_T1,7/25/2019 1:12:06 AM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/24/2019 5:15:08 PM
+We are seeing data mismatch between EAMS source and DSC,7/24/2019 6:06:37 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/24/2019 3:01:56 PM
+NA - SLS Load failed,7/24/2019 8:27:01 PM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed!,7/24/2019 1:57:08 PM
+FRMPP - SPLUNK - CMSU_CMDB_T1,7/24/2019 7:32:20 PM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed!,7/24/2019 11:25:23 AM
+First Responder - Open Systems -Functionality - DSC-GCVP-PROD--CRON-Workflow-->Failed,7/24/2019 1:36:15 AM
+Missing a repair order entry in SCA-C fxrepairorder table,7/24/2019 12:56:17 AM
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-Batch-->Failed,7/24/2019 12:16:44 AM
+No data for a month in CKSA table  - mcksc09_cmkey_tble’,7/24/2019 12:06:13 AM
+LA_UK job failed in validation,7/24/2019 12:46:34 AM
+No Weekly watcher for GIVIS(weekly job ) from DSC,7/23/2019 10:04:11 PM
+LA_DEU job failed in validation,7/24/2019 12:48:45 AM
+FRMPP – Splunk - Error on EDCAS417 - MMS_MMS_T1,7/23/2019 9:23:28 PM
+FRMPP - SQOOP - DSC-10132-ADDON_FST_RA-PROD-Batch-Failed,7/23/2019 8:54:08 PM
+First Responder - Open Systems -Broken - DSC-ADDON_FST_RA-PROD--CRON-Batch-->Failed,7/23/2019 8:54:04 PM
+FRMPP - SQOOP - DSC-sicop-prod-DAILY-Batch-->Failed,7/23/2019 11:40:05 PM
+FRMPP - SQOOP - DSC-AA_CLKSTRM_NA4-PROD: Missing Files at server = *fmcmobmylnprod*,7/23/2019 9:04:41 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/23/2019 7:52:41 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] EAPQP_EAPQP_T1,7/23/2019 7:29:58 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/23/2019 7:22:23 PM
+FRMPP – ATT  - Login Failure EAPQP_EAPQP_T1,7/23/2019 6:56:06 PM
+EAPQP_EAPQP_T1(on EDCAS418_PROD_SQL_Source)  task failed on 2019-07-21,7/23/2019 5:33:32 PM
+Data missing date 08-07-2019 for 10290_fp_app_cs_us_lz_db. gdf0r10_fordpass_clickstr_app,7/23/2019 4:39:35 PM
+FRMPP – SQOOP - DSC-AA_CLKSTRM_NA3-PROD - Missing Files at server = *fmccotprod*,7/23/2019 10:06:28 PM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,7/23/2019 11:51:58 AM
+First Responder - Open Systems -Functionality - DSC-sicop-prod-DAILY-Batch-->Failed,7/22/2019 11:56:36 PM
+First Responder - Open Systems -Functionality - DSC-snurk2-prod-REGULAR-Batch-->Failed,7/22/2019 11:55:40 PM
+All of the Adobe Click Stream Tables appear to have remapped data type to string,7/23/2019 2:00:53 AM
+First Responder - Open Systems -Broken - DSC-CUCM-PROD--DAILY-Workflow-->Failed,7/22/2019 9:29:38 PM
+NAVIS - Missing Partition,7/22/2019 8:54:34 PM
+Data missing- gdf0rjv_adobe_clickstr_na_app_ford_ownr,7/22/2019 8:45:22 PM
+Data feed missing-gdf0rk7_adobe_clickstr_na_linc_cred_can,7/22/2019 8:43:28 PM
+Data missing feed- gdf0rlq_adobe_clickstr_na_fmcfordswx,7/22/2019 8:38:33 PM
+Data Missing -gdf0rji_adobe_clickstr_na_flmc,7/22/2019 8:34:46 PM
+Data missing for the feed-gdf0r12_adobe_clickstr_brand,7/22/2019 8:31:39 PM
+10290_fp_app_cs_us_lz_db. gdf0r10_fordpass_clickstr_app- Data missing for below dates,7/22/2019 8:23:37 PM
+First Responder - Open Systems -Broken - DSC-ADDON_FST_RA-PROD--CRON-Batch-->Failed,7/22/2019 8:08:35 PM
+First Responder - Open Systems -Broken - DSC-espars-prod-ADHOC-Batch-->Failed,7/22/2019 7:56:54 PM
+Data feed missing- gdf0rjr_adobe_clickstr_na_ford_cred_can,7/22/2019 8:40:50 PM
+WSMOD_WSMOD_T1(on EDCAS417_PROD_SQL_Source) failed on 21/07/2019,7/22/2019 7:38:22 PM
+gdf0rgf_adobe_clickstr_na_t12_all- 15th &16th July data missing,7/22/2019 6:46:37 PM
+ITMS_ITMS_T1(on EDCAS418_PROD_SQL_Source ) task failed on 2019-07-21,7/22/2019 5:23:13 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/22/2019 4:20:55 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/22/2019 3:32:18 PM
+First Responder - Open Systems -Error - prod-dsc-10528_espars-batch-start-Failed,7/22/2019 7:36:53 AM
+First Responder - Open Systems -Broken - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,7/21/2019 9:29:08 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,7/21/2019 7:10:59 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] CMSU_CMDB_T1 re,7/21/2019 2:32:31 PM
+First Responder - Open Systems -Error - [edcas419.md2.ford.com\Fatal error_AM Team] MFM_MFMPRD_T2 re,7/20/2019 10:25:42 PM
+First Responder - Open Systems -Error - DSC-10826-TCCACHE-PROD-Workflow-Failed,7/20/2019 4:49:13 PM
+First Responder - Open Systems -Error - DSC-10160-FACTON-PROD-Workflow-Failed,7/20/2019 3:16:39 PM
+QWX_SAEP_EA1CHA T1 task is not processing.,7/22/2019 5:21:44 PM
+DSC-snurk2-prod-REGULAR-batch-complete-->Failed,7/23/2019 2:01:49 AM
+'SUPERG_SUPERG_T1' (server 'EDCAS418_PROD_SQL_Source') task failed on 21/07/2019,7/22/2019 2:04:30 PM
+First Responder - Open Systems -Broken - DSC-CUCM-PROD--DAILY-Workflow-->Failed,7/19/2019 9:06:42 PM
+First Responder - Open Systems -Broken - DSC-CRMSAP-PROD--CRON-Batch-->Failed,7/19/2019 9:06:03 PM
+DSC-GCVP-PROD--CRON-Workflow-->Failed,7/20/2019 1:24:22 AM
+"Mismatch between lz and tz, due to Hex function being applied",7/19/2019 8:16:27 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/19/2019 4:10:57 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/19/2019 3:14:51 PM
+DSC-sicop-prod-DAILY-Batch-->Failed,7/20/2019 12:23:47 AM
+CMMS3_DB27_E1_T1' encountered a fatal error on 18/07/2019,7/19/2019 1:35:21 PM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,7/19/2019 11:33:40 AM
+AIMWEB_AIMPRD_T2(on EDCAS419_PROD_Oracle_Source)  tasks failed on 18/07/2019,7/19/2019 1:59:58 PM
+First Responder - Open Systems -Broken - DSC-GCVP-PROD--CRON-Workflow-->Failed,7/19/2019 1:22:12 AM
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-Batch-->Failed,7/19/2019 1:21:20 AM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA1-PROD,7/19/2019 3:13:55 PM
+LA-UKDEU job failed,7/19/2019 1:16:30 AM
+First Responder - Open Systems -Broken - DSC-CRMSAP-PROD--CRON-Batch-->Failed,7/18/2019 8:36:22 PM
+PySprak script that writes data into dsc60006_cmms3_tz_db.chmt082_efic_load__ct_Hex  is currently...,7/18/2019 7:16:28 PM
+First Responder - Open Systems -Broken - DSC-CUCM-PROD--DAILY-Workflow-->Failed,7/18/2019 9:05:57 PM
+No file watcher from DSC for ARFD,7/18/2019 7:10:44 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/18/2019 5:13:22 PM
+First Responder - Open Systems -Error - DSC-10787-FSM_CRM_DYN365-PROD-Workflow-Failed,7/18/2019 10:29:10 AM
+First Responder - Open Systems -Error - DSC_FEDEBOM_CRON:FAILED,7/18/2019 9:06:34 AM
+Mismatch between SCAC Core and SCAC TZ tables,7/18/2019 3:32:24 AM
+DSC-sicop-prod-DAILY-batch-complete-->Failed,7/18/2019 12:26:57 AM
+First Responder - Open Systems -Broken - DSC-CUCM-PROD--DAILY-Workflow-->Failed,7/17/2019 9:39:01 PM
+First Responder - Open Systems -Broken - DSC-CRMSAP-PROD--CRON-Batch-->Failed,7/17/2019 9:38:11 PM
+First Responder - Open Systems -Broken - DSC-espars-prod-ADHOC-batch-complete-->Failed,7/17/2019 7:37:17 PM
+Missing Data-Lincoln Credit data - DSC10016_AA_CLKSTRM_NA2_LZ_DB.GDF0RJG_ADOBE_CLICKSTR_NA_LAFS,7/17/2019 6:44:02 PM
+First Responder - Open Systems -Broken - DSC-MXAPS_FNA-PROD--ADHOC-Data-Movement-->Failed,7/17/2019 4:22:52 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/17/2019 4:22:07 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/17/2019 4:23:34 PM
+DSC-CKSA-PROD--DAILY-Batch-->Failed,7/17/2019 1:26:37 AM
+DSC-sicop-prod-DAILY-Batch-->Failed,7/16/2019 11:59:40 PM
+First Responder - Open Systems -Broken - DSC-CUCM-PROD--DAILY-Workflow-->Failed,7/16/2019 9:16:57 PM
+Missing SLS file for 7/16 /2019 execution,7/16/2019 9:10:27 PM
+Data truncation-correct this lookup type field values in all the 4 tables,7/16/2019 8:11:27 PM
+SCAC jobs keep failing due to no filewatcher from DSC,7/16/2019 7:26:34 PM
+DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/16/2019 10:16:11 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/16/2019 7:13:38 PM
+GTSV_VEP_VAEPFS1 task is not processing.,7/16/2019 6:03:31 PM
+First Responder - Open Systems -Broken - [edcas535.md2.ford.com\Fatal error AM Team] GTSV_VEP_VAEPFS,7/16/2019 6:53:54 PM
+First Responder - Open Systems -Broken - DSC-CKSA-PROD--ADHOC-Batch-->Failed,7/16/2019 4:58:57 PM
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/16/2019 4:58:10 PM
+Data not landed beyond 6th July,7/16/2019 3:43:33 PM
+First Responder - Open Systems -Broken - DSC-SPCPS-PROD--CRON-Workflow-->Failed,7/16/2019 12:05:39 PM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190715225918-Batch-->Completed--Dat,7/16/2019 9:50:30 AM
+DSC-CKSA-PROD--DAILY-Batch-->Failed,7/16/2019 1:34:35 AM
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-batch-complete-->Failed,7/16/2019 12:18:17 AM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,7/16/2019 12:17:50 AM
+Data Not loaded Since July,7/15/2019 11:43:30 PM
+File is missing for AOT VOT for JULY month,7/15/2019 10:46:06 PM
+First Responder - Open Systems -Broken - An error has occurred in CVOS : PROD:cvos_2,7/15/2019 8:57:32 PM
+First Responder - Open Systems -Broken - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,7/15/2019 8:38:49 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/15/2019 7:01:18 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/15/2019 6:56:24 PM
+First Responder - Open Systems -Error - [edcas417.md2.ford.com\DSC AM Fatal Error] QWX_CEP_AE_T1 ret,7/15/2019 6:29:33 PM
+First Responder - Open Systems -Error - [edcas535.md2.ford.com\Fatal error AM Team] FCAMS_SF204P01_E,7/15/2019 6:14:18 PM
+First Responder - Open Systems -Broken - DSC-EDW-PROD--ADHOC-Data-Ingestion-->Failed,7/15/2019 1:59:54 PM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/15/2019 10:12:18 AM
+First Responder - Open Systems -Broken - DSC_FEDEBOM_CRON:FAILED,7/15/2019 9:38:33 AM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190714225917-Batch-->Completed--Dat,7/15/2019 9:37:51 AM
+eCATSRL task failure on 14/07/2019,7/15/2019 1:14:53 PM
+First Responder - Open Systems -Broken - DSC-ADDON_FST_RA-PROD--ADHOC-Data-Ingestion-->Failed,7/14/2019 9:14:43 PM
+First Responder - Open Systems -Broken - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,7/14/2019 9:15:28 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] QLSCM_DDMP_T1 r,7/14/2019 3:22:32 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_DEFT_DEP_VE,7/14/2019 11:17:06 AM
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,7/14/2019 9:57:15 AM
+First Responder - Open Systems -Broken - DSC_FEDEBOM_CRON:FAILED,7/14/2019 8:38:34 AM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190713225920-Batch-->Completed--Dat,7/14/2019 8:38:04 AM
+First Responder - Open Systems -Error - prod-dsc-10385_snurk2-batch-start-Failed!,7/13/2019 10:38:41 PM
+First Responder - Open Systems -Broken - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,7/13/2019 4:35:56 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,7/13/2019 4:35:17 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,7/13/2019 4:34:44 PM
+QLSCM task failed on 14/07/2019,7/15/2019 1:21:42 PM
+QWX_CEP_AE_T1  task failed on 12/07/2019,7/15/2019 1:26:59 PM
+First Responder - Open Systems -Broken - [edcas534.md2.ford.com\Fatal error AM Team] QWX_TEP_BLK_T1,07-12-19 21:53
+First Responder - Open Systems -Broken - [edcas417.md2.ford.com\DSC AM Fatal Error] QWX_CEP_AE_T1 re,07-12-19 21:52
+First Responder - Open Systems -Broken - [edcas417.md2.ford.com\DSC AM Fatal Error] QWX_CEP_AE_T1 re,07-12-19 18:21
+"Tasks had high latency QLSVO_CSAP, QLSVO_CAP,",07-12-19 22:56
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-12-19 15:18
+First Responder - Open Systems -Error - [edcas420.md2.ford.com\Fatal error_AM Team] CLARITY_CLRTYPRD,07-12-19 14:37
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-12-19 16:13
+Change of priority for VIN2PART  as GOLD source,07-11-19 19:56
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-11-19 17:07
+First Responder - Open Systems -Error - DSC_FEDEBOM_CRON:FAILED,07-11-19 8:49
+DSC-sicop-prod-DAILY-batch-complete-->Failed,07-10-19 23:46
+Install Patch to QWX server in Cleveland Engine Plant,07-10-19 20:03
+Please turn the CKS-A copy from Teradata to Hadoop back on and return it to a weekly schedule. it...,07-10-19 20:00
+VIN2Part daily update job seems stalled,07-10-19 18:30
+First Responder - Open Systems -Error - DSC-10160-FACTON-PROD-Workflow-Failed!,07-10-19 14:43
+First Responder - Open Systems -Error - DSC-10456-ATENTO_SGA_BR-PROD-Workflow-Failed!,07-10-19 16:22
+First Responder - Open Systems -Error - prod-dsc-10211_gpirs-batch-complete-Failed!,07-10-19 14:41
+First Responder - Open Systems -Broken - DSC-FSM_CRM_DYN365-PROD--CRON-Workflow-->Failed,07-10-19 9:31
+Foreign Key column value mismatch between LZ and TZ,07-10-19 0:30
+Performance Issue - Database has old content as well as the latest updates. Please look into the iss,07-09-19 21:41
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] PTMS_PTMS3_E1_T,07-09-19 21:19
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-09-19 20:06
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-09-19 20:04
+VIN2Part daily update job seems stalled,07-09-19 19:35
+DSC-lincolnlra-prod-MONTHLY-batch-complete-->Failed,07-09-19 23:05
+DEFT sources are not connecting to the source database.,07-09-19 20:08
+First Responder - Open Systems -Error - [edcas419.md2.ford.com\Fatal error_AM Team] QLSVO_KCAPT_T1 r,07-09-19 16:28
+CLARITY_CLRTYPRD T1 task keeps failing.,07-09-19 17:35
+First Responder - Open Systems -Error - DSC_FEDEBOM_CRON:FAILED,07-09-19 9:08
+Clarity job failure on 09-07-2019,07-09-19 19:02
+First Responder - Open Systems -Error - [edcas419.md2.ford.com\Fatal error_AM Team] QLSVO_KCAPT_T1 r,07-08-19 21:05
+First Responder - Open Systems -Error - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,07-08-19 21:15
+No filewatcher for Auto alert app,07-08-19 20:15
+"GI (dsc# 10210) has not landed since July5, 2019",07-08-19 18:28
+DSC-sicop-prod-DAILY-Batch-->Failed,07-08-19 23:59
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-08-19 16:52
+First Responder - Open Systems -Error - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,07-08-19 16:53
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-08-19 16:53
+First Responder - Open Systems -Broken - DSC-gpirs-prod-REGULAR-Batch-->Failed,07-08-19 4:45
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_SATP_AREAB2,07-07-19 18:36
+QLS_VO_LAP  High Latency,07-07-19 2:32
+QLSVO_CSAP High latecny,07-06-19 19:20
+DSC-ICBC-PROD--HISTORICAL-Process-End-->Failed,07-06-19 5:29
+First Responder - Open Systems -Broken - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,07-07-19 20:27
+First Responder - Open Systems -Broken - DSC-qadeccdb1085_03-prod-REGULAR-Batch-->Failed,07-07-19 3:46
+QLSVO_PSAP_T1 Failed due to password expiry,07-06-19 18:53
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-05-19 17:11
+10457_aa_clkstrm_sa_lz_db.gdf0rko_adobe_clickstr_sa_ford_pass_bra-missing since 28th June,07-05-19 15:52
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-05-19 15:41
+DSC-ICBC-PROD--HISTORICAL-Process-End-->Failed,07-06-19 1:04
+DSC-sicop-prod-DAILY-batch-complete-->Failed,07-06-19 1:00
+First Responder - Open Systems -Broken - DSC-ips-prod-REGULAR-Batch-->Failed,07-05-19 12:50
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190704225920-Batch-->Completed--Dat,07-05-19 11:40
+First Responder - Open Systems -Error - DSC-LA_UKDEU-PROD--CRON-Workflow-->Failed,07-05-19 5:58
+First Responder - Open Systems -Error - DSC-AA_CLKSTRM_NA1-PROD Job 8071 fmcfordt12all_fordvehiclese,07-05-19 15:41
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-04-19 17:06
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-04-19 15:27
+First Responder - Open Systems -Error - DSC-AA_CLKSTRM_NA1-PROD Job 8064 fmcfordt12all_fordvehiclese,07-04-19 15:26
+First Responder - Open Systems -Error - [edcas416.md2.ford.com\Fatal error AM Team] FIS_OHAP_FIN_T1,07-03-19 18:05
+missing partition in AFRD for 1st July feed.,07-03-19 16:44
+First Responder - Open Systems -Broken - DSC-argp-prod-REGULAR-Batch-->Failed,07-03-19 13:55
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-03-19 15:51
+First Responder - Open Systems -Error - DSC-arfd-prod-REGULAR-batch-complete-->Failed,07-03-19 15:48
+First Responder - Open Systems -Error - DSC-siga-prod-REGULAR-batch-complete-->Failed,07-03-19 15:48
+First Responder - Open Systems -Broken - DSC-svs-prod-REGULAR-Batch-->Failed,07-03-19 8:18
+NO data for ICIAAT,07-03-19 1:10
+First Responder - Open Systems -Broken - DSC-react-prod-REGULAR-Batch-->Failed,07-03-19 0:36
+GI is no longer being landed,07-02-19 23:44
+First Responder - Open Systems -Error - DSC-citis-prod-REGULAR-Batch-->Failed,07-02-19 21:51
+FLMC BROKEN DATA,07-02-19 19:57
+ARFD data not available,07-02-19 19:34
+Missing T12 Clickstream Data from 06/28,07-02-19 19:45
+First Responder - Open Systems -Error - [edcas535.md2.ford.com\Fatal error AM Team] QLSCM_LTPQCM2_T1,07-02-19 19:47
+First Responder - Open Systems -Functionality - DSC-argp-prod-REGULAR-Batch-->Failed,07-02-19 16:34
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-02-19 16:33
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-02-19 16:33
+First Responder - Open Systems -Broken - DSC_FEDEBOM_CRON:FAILED,07-02-19 10:55
+First Responder - Open Systems -Broken - DSC-svs-prod-REGULAR-Batch-->Failed,07-02-19 10:54
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA2-PROD--ADHOC-Workflow-->Failed,07-02-19 10:53
+First Responder - Open Systems -Broken - DSC-arfd-prod-REGULAR-Batch-->Failed,07-02-19 10:52
+Hadoop Outage,07-01-19 23:59
+First Responder - Open Systems -Error - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,07-01-19 20:26
+First Responder - Open Systems -Error - DSC-gi-prod-REGULAR-Batch-->Failed,07-01-19 18:02
+First Responder - Open Systems -Error - DSC-FACTON-PROD--CRON-Workflow-->Failed,07-01-19 18:05
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,07-01-19 18:05
+First Responder - Open Systems -Error - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,07-01-19 18:03
+First Responder - Open Systems -Broken - DSC-crr-prod-REGULAR-Batch-->Failed,07-01-19 13:10
+First Responder - Open Systems -Broken - DSC-erma-prod-REGULAR-Batch-->Failed,07-01-19 12:51
+First Responder - Open Systems -Broken - DSC-siga-prod-REGULAR-Batch-->Failed,07-01-19 5:48
+First Responder - Open Systems -Error - DSC-citis-prod-REGULAR-Batch-->Failed,6/30/2019 9:34:57 PM
+First Responder - Open Systems -Error - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,6/30/2019 9:34:06 PM
+First Responder - Open Systems -Broken - [edcas416.md2.ford.com\Fatal error AM Team] FIS_DEFT_DEP_VE,6/30/2019 12:13:12 PM
+First Responder - Open Systems -Broken - DSC-euasaims-prod-REGULAR-Batch-->Failed,6/30/2019 12:02:39 PM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190629225922-Batch-->Completed--Dat,6/30/2019 12:01:41 PM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] PTMS_PTMS3_T2 r,6/30/2019 1:17:25 AM
+First Responder - Open Systems -Broken - [edcas418.md2.ford.com\Fatal error_AM Team] PTMS_PTMS3_E1_T,6/30/2019 1:04:46 AM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] WPAC_SF308P07_T,6/29/2019 3:00:35 PM
+First Responder - Open Systems -Broken - DSC-snurk2-prod-REGULAR-Batch-->Failed,6/30/2019 10:39:18 PM
+First Responder - Open Systems -Error - DSC-kbs_logs-prod-DAILY-Batch-->Failed,6/30/2019 6:17:21 PM
+First Responder - Open Systems -Broken - DSC-argp-prod-REGULAR-Batch-->Failed,6/30/2019 1:49:44 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] AVBOM2_BPMPSPRD,6/29/2019 7:35:30 PM
+First Responder - Open Systems -Broken - DSC-vin_ref-prod-DAILY-Batch-->Failed,6/29/2019 5:46:11 PM
+First Responder - Open Systems -Broken - DSC-gi-prod-REGULAR-Batch-->Failed,6/29/2019 5:45:05 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/29/2019 5:09:08 PM
+First Responder - Open Systems -Broken - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,6/29/2019 5:08:34 PM
+First Responder - Open Systems -Broken - DSC-FACTON-PROD--CRON-Workflow-->Failed,6/29/2019 5:08:07 PM
+First Responder - Open Systems -Broken - DSC-CKSA-PROD--DAILY-Batch-->Failed,6/28/2019 9:41:27 PM
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-batch-complete-->Failed,6/28/2019 7:44:34 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/28/2019 7:41:18 PM
+First Responder - Open Systems -Broken - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,6/28/2019 7:46:37 PM
+First Responder - Open Systems -Broken - DSC-CKSA-PROD--ADHOC-Data-Ingestion-->Failed,6/28/2019 3:06:29 PM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190627225924-Batch-->Completed--Dat,6/28/2019 10:44:09 AM
+First Responder - Open Systems -Broken - DSC-EDW-PROD--ADHOC-Data-Movement-->Failed,6/28/2019 10:38:26 AM
+ESBOL_SF307P01_T1 Failed due to password issue,6/27/2019 10:03:09 PM
+First Responder - Open Systems -Error - DSC-lvngide-prod-DAILY-Batch-->Failed,6/27/2019 4:36:50 PM
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/27/2019 4:39:53 PM
+First Responder - Open Systems -Error - DSC-lvngfta-prod-DAILY-batch-complete-->Failed,6/27/2019 4:38:35 PM
+First Responder - Open Systems -Error - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,6/27/2019 4:37:23 PM
+QWX_EA1DRCHA_T1 task was not processing.,6/27/2019 12:31:09 AM
+I need to change the id and password on EAPQP EAPQP T1 task,6/26/2019 9:59:50 PM
+FIS_WEP_ENG task failed.,6/26/2019 5:09:55 PM
+FIS_KTP jobs failed.,6/26/2019 5:05:35 PM
+First Responder - Open Systems -Error - DSC-CKSA-PROD--ADHOC-Data-Movement-->Failed,6/26/2019 5:05:26 PM
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/26/2019 5:04:48 PM
+First Responder - Open Systems -Error - DSC-lvngide-prod-DAILY-batch-complete-->Failed,6/26/2019 5:04:07 PM
+Test ticket,6/26/2019 4:59:01 PM
+First Responder - Open Systems -Functionality - FW: DSC-REACT-PROD: Data Ingestion Complete for REGU,6/26/2019 12:42:03 AM
+First Responder - Open Systems -Functionality - DSC-react-prod-REGULAR-Batch-->Failed,6/26/2019 12:28:53 AM
+First Responder - Open Systems -Functionality - DSC-sicop-prod-DAILY-Batch-->Failed,6/25/2019 11:52:13 PM
+First Responder - Open Systems -Error - DSC-OAR-PROD--DAILY-Data-Ingestion-->Failed,6/25/2019 9:46:34 PM
+First Responder - Open Systems -Error - [edcas534.md2.ford.com\Fatal error AM Team] ICICM_ICMAMSQP_T,6/25/2019 9:52:11 PM
+SAPGLOBAL task haing issues reading a particular log,6/25/2019 9:36:47 PM
+First Responder - Open Systems -Error - DSC-lvngfta-prod-DAILY-Batch-->Failed,6/25/2019 7:16:53 PM
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/25/2019 7:15:55 PM
+First Responder - Open Systems -Error - An unexpected condition has occurred in CVOS : PROD:cvos_4,6/25/2019 6:58:33 PM
+First Responder - Open Systems -Functionality - [edcas536.md2.ford.com\New Notification 1] SAPGLOBAL,6/25/2019 6:28:45 PM
+Task running with high latecny issues,6/25/2019 6:59:34 PM
+Task is running with high Latency issues in Server edcas419,6/25/2019 6:57:36 PM
+IRIS_SF308P07_T1 Task is having Latency Issues,6/25/2019 6:54:40 PM
+Task is running with High latency,6/25/2019 7:01:09 PM
+First Responder - Open Systems -Broken - DSC-CKSA-PROD--ADHOC-Data-Ingestion-->Failed,6/25/2019 1:04:27 PM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190624225922-Batch-->Completed--Dat,6/25/2019 8:52:49 AM
+First Responder - Open Systems -Broken - DSC_FEDEBOM_CRON:FAILED,6/25/2019 8:52:12 AM
+SICOP LZ table landed with records from unexpected source files,6/24/2019 11:03:54 PM
+First Responder - Open Systems -Functionality - DSC-sicop-prod-DAILY-Batch-->Failed,6/24/2019 11:36:36 PM
+LA-UKDEU (itms 15665) data has not been refreshed in DSC since Thursday (6/20).,6/24/2019 10:21:34 PM
+First Responder - Open Systems -Broken - [edcas536.md2.ford.com\New Notification 1] SAPGLOBAL_B2P_T1,6/24/2019 8:30:50 PM
+ACR SF307P01 T1 task had high latency.,6/24/2019 10:00:14 PM
+First Responder - Open Systems -Broken - DSC-lvngfta-prod-DAILY-batch-complete-->Failed,6/24/2019 5:48:59 PM
+DPR_MEDPR_T1 task had high latency.,6/24/2019 10:20:53 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/24/2019 4:08:04 PM
+First Responder - Open Systems -Error - [edcas418.md2.ford.com\Fatal error_AM Team] FIS_WEP_W3V4V_T1,6/24/2019 1:54:13 PM
+Test Ticket,6/24/2019 12:00:05 PM
+First Responder - Open Systems -Error - DSC-10420-BLESSREC-PROD-Workflow-Failed!,6/23/2019 11:07:58 PM
+First Responder - Open Systems -Broken - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,6/23/2019 5:22:50 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/23/2019 5:22:09 PM
+First Responder - Open Systems -Broken - FIS_DEFT_DEP_VELOCITY_TT returned a non-retryable error,6/23/2019 12:45:50 PM
+First Responder - Open Systems -Broken - DSC_FEDEBOM_CRON:FAILED,6/23/2019 9:56:57 AM
+First Responder - Open Systems -Broken - DSC-FEDEBOM-prod-CRON-20190622225922,6/23/2019 9:56:12 AM
+First Responder - Open Systems -Error - [edcas534.md2.ford.com\Fatal error AM Team] ICICM_ICMAMSQP_T,6/24/2019 12:57:58 AM
+First Responder - Open Systems -Error - DSC-10258-OAR-PROD-Data-Ingestion-Failed!,6/22/2019 10:44:54 PM
+First Responder - Open Systems -Error - ICICM_ICMAMSQP_T1 returned a non-retryable error,6/22/2019 1:10:50 PM
+First Responder - Open Systems -Error - prod-dsc-10577_ips-batch-start-Failed!,6/22/2019 9:46:00 AM
+First Responder - Open Systems -Error - DSC-FEDEBOM-prod-CRON-20190621225921-Batch-->Completed--Data,6/22/2019 8:40:14 AM
+First Responder - Open Systems -Error - DSC_FEDEBOM_CRON:FAILED,6/22/2019 8:39:07 AM
+Truncation of CKS-A (itms# 11202) column in DSC Landing process,6/21/2019 9:22:51 PM
+First Responder - Open Systems -Broken - DSC-AA_CLKSTRM_NA5-PROD--DAILY-Data-Movement-->Failed,6/21/2019 9:33:53 PM
+DSC-OAR-PROD--DAILY-Data-Ingestion-->Failed,6/21/2019 10:48:36 PM
+First Responder - Open Systems -Broken - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,6/21/2019 4:48:23 PM
+Test Ticket,6/21/2019 12:05:28 PM
+DSC-sicop-prod-DAILY-Batch-->Failed,6/22/2019 12:18:57 AM
+First Responder - Open Systems -Broken - [edcas535.md2.ford.com\Fatal error AM Team] QLSVO_OAP_T1 re,6/21/2019 7:44:05 AM
+First Responder - Open Systems -Broken - DSC-DOLVOL-PROD--DAILY-Data-Ingestion-->Failed,6/20/2019 9:34:39 PM
+DSC-sicop-prod-DAILY-Batch-->Failed,6/21/2019 12:53:31 AM
+First Responder - Open Systems -Broken - DSC-lvngide-prod-DAILY-batch-complete-->Failed,6/20/2019 6:37:07 PM
+First Responder - Open Systems -Broken - DSC-DOLVOL-PROD--ADHOC-Data-Ingestion-->Failed,6/20/2019 3:25:32 PM
+Transform errors - 20/jun/2019,6/20/2019 1:04:51 PM
+First Responder - Open Systems -Error - DSC-ips-prod-REGULAR-Batch-->Failed,6/20/2019 10:03:15 AM
+First Responder - Open Systems -Error - DSC-FEDEBOM-prod-CRON-20190619225925-Batch-->Completed--Data,6/20/2019 8:59:52 AM
+First Responder - Open Systems -Error - DSC_FEDEBOM_CRON:FAILED,6/20/2019 8:58:39 AM
+DSC-OAR-PROD--DAILY-Data-Ingestion-->Failed,6/20/2019 11:06:18 PM
+First Responder - Open Systems -Broken - [edcas419.md2.ford.com\Fatal error_AM Team] GCP_CPV2PROD_T1,6/19/2019 9:05:33 PM
+First Responder - Open Systems -Broken - DSC-VISTA-PROD--CRON-Data-Movement-->Failed,6/19/2019 9:16:08 PM
+First Responder - Open Systems -Broken - DSC-ASRGL-PROD--ADHOC-Data-Ingestion-->Failed,6/19/2019 8:46:01 PM
+DSC-sicop-prod-DAILY-batch-complete-->Failed,6/20/2019 12:20:12 AM
+Transform failures -19/jun/19,6/19/2019 5:57:11 PM
+First Responder - Open Systems -Broken - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/19/2019 4:43:49 PM
+First Responder - Open Systems -Broken - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,6/19/2019 4:47:05 PM
+First Responder - Open Systems -Error - DSC-FEDEBOM-prod-CRON-20190618225928-Batch-->Completed--Data,6/19/2019 8:37:16 AM
+First Responder - Open Systems -Error - DSC_FEDEBOM_CRON:FAILED,6/19/2019 8:36:34 AM
+DSC_FEDEBOM_CRON:FAILED,6/19/2019 1:32:31 AM
+DSC-react-prod-REGULAR-Batch-->Failed,6/19/2019 12:53:48 AM
+FIS_WEP_ENG_T1 Data is not processing for the task,6/19/2019 12:57:39 PM
+Primary key duplicate records in CDC-INSERT of landing zone database,6/18/2019 11:04:11 PM
+DSC-react-prod-REGULAR-Batch-->Failed,6/19/2019 12:54:55 AM
+First Responder - Open Systems -Error - DSC-ASRGL-PROD--ADHOC-Data-Ingestion-->Failed,6/18/2019 8:00:44 PM
+GIVIS filewatcher not received from DSC,6/18/2019 6:25:22 PM
+First Responder - Open Systems -Error - DSC-gi-prod-REGULAR-Batch-->Failed,6/18/2019 6:10:32 PM
+Transform issues -To create partition in GCVP in TZ,6/18/2019 4:45:54 PM
+First Responder - Open Systems -Error - DSC-AA_CLKSTRM_NA3-PROD--DAILY-Workflow-->Failed,6/18/2019 4:45:29 PM
+First Responder - Open Systems -Error - DSC-ATENTO_SGA_BR-PROD--DAILY-Workflow-->Failed,6/18/2019 4:44:48 PM
+First Responder - Open Systems -Error - DSC-TCCACHE-PROD--CRON-Workflow-->Failed,6/18/2019 4:44:08 PM
+First Responder - Open Systems -Error - DSC-10563-MXAPS_FAP-PROD FAILED,6/18/2019 12:15:32 PM
+First Responder - Open Systems -Error - prod-dsc-10170_vcds-batch-complete-Failed!,6/18/2019 10:47:28 AM
+Ecatsrl_SVAP- Primary key duplicate records exists in CDC-INSERT of Landing Zone database,6/18/2019 2:49:21 AM
+First Responder - Open Systems -Broken - DSC-sicop-prod-DAILY-batch-complete-->Failed,6/18/2019 12:23:34 AM
+SAP Global tables missing,6/17/2019 10:41:23 PM
+File watcher not received for GFIN,6/17/2019 8:56:43 PM
+DSC-CPO_SALE-PROD--INIT-Workflow-->Failed,6/18/2019 2:17:16 AM
+First Responder - Open Systems -Error - DSC-BLESSREC-PROD--DAILY-Workflow-->Failed,6/17/2019 9:07:56 PM
+First Responder - Open Systems -Error - DSC-CPO_SALE-PROD--CRON-Data-Movement-->Failed,6/17/2019 9:06:25 PM
+ECATS tasks failed.,6/17/2019 7:40:29 PM
